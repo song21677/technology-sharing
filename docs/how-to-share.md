@@ -49,6 +49,6 @@
 
 <br>
 
-* Q&A, 경험 공유, 피드백(추가 자료 추천, ..., 글쓰기(읽기 어려웠던 문장, ...) 관련도 가능)을 Pull Request의 댓글로 
+* Q&A, 경험 공유, 피드백(추가 자료 추천, ..., 글쓰기(읽기 어려웠던 문장, ...) 관련도 가능)을 Pull Request의 댓글로 진행합니다.
 
 ![Image](https://github.com/user-attachments/assets/bd576519-1c4b-4dc7-ad4d-c964223debfb)
