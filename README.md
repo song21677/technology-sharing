@@ -10,7 +10,7 @@
 * 기한 내에 PR하지 않은 경우, 남아서 포스팅 + PR 완료해야 퇴근할 수 있습니다.
 
 ## PR & 리뷰 방식
-[commit-template.md](https://github.com/song21677/technology-sharing/blob/main/docs/commit_template.md) 를 참고해주세요.
+[how-to-share.md](https://github.com/song21677/technology-sharing/blob/main/docs/how-to-share.md) 를 참고해주세요.
 
 ## 🏃‍➡️ 참여자
 * [박주형](https://github.com/parkhyeong)
