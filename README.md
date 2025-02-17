@@ -14,5 +14,5 @@
 
 ## 🏃‍➡️ 참여자
 * [박주형](https://github.com/parkhyeong)
-* [위소현]()
+* [위소현](https://github.com/sohyun-alicia)
 * [허송이](https://github.com/song21677)
