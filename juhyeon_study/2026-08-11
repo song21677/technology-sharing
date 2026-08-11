@@ -1,0 +1,11 @@
+- 유튜브 영상 다운로드 수집기 수정
+몽고 videos 필드에 다운로드 document 넣기
+
+몽고 용어
+database - database
+table - collection
+Row - document
+column - field
+
+- 자바 강의
+미정
