@@ -1,0 +1,22 @@
+자재관리 시스템 마이그레이션
+javax -> Jakarta 변경
+
+spring 2 -> spring 3.3.1 버전 수정
+
+jdk 17
+
+pms 사이드바 그대로 퍼블리싱 적용
+사이드바 기능 직접 vue로 구현
+
+mms vue clie -> mms vue vite 변경 작업
+
+node.js 최신버전
+
+배포 환경 세팅 방법 인수인계서 작성
+- 환경세팅, tomcat, nginx, ftp, mysql db, properties 설정
+
+생체데이터 전송 
+삼성헬스 -> 헬스커넥터 -> 내앱 -> carevia 서버
+내앱에서 workerManager(스케줄러 배치) 하루전 데이터 조회 후 carevia 서버 전송 (헬스커넥터 데이터 조회 후 서버 전송)
+
+하루전 -> 실시간으로 변경
